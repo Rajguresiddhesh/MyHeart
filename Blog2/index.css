@@ -1,0 +1,63 @@
+.desktop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1-desktop1 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(98, 245, 255, 1);
+}
+.desktop1-text {
+  top: 131px;
+  left: 62px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Jomhuria;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text2 {
+  top: 291px;
+  left: 27px;
+  color: rgba(0, 0, 0, 1);
+  width: 730px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Jomhuria;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-image1 {
+  top: 96px;
+  left: 757px;
+  width: 650px;
+  height: 464px;
+  position: absolute;
+}
+.desktop1-image2 {
+  top: 608px;
+  left: 772px;
+  width: 635px;
+  height: 368px;
+  position: absolute;
+}
